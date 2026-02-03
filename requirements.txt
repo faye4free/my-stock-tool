@@ -1,5 +1,1 @@
-pandas
-streamlit
-yfinance
-deep-translator
-requests
+streamlit\nyfinance\ndeep-translator\nrequests
